@@ -1,0 +1,4 @@
+export const SET_BASKET = 'SET_BASKET';
+export const ADD_PROD_BASKET = 'ADD_PROD_BASKET';
+export const DELETE_PROD_BASKET = 'DELETE_PROD_BASKET';
+export const DROP_BASKET = 'DROP_BASKET';
